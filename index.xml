@@ -16,5 +16,14 @@
       <description>Hello Gophercon!</description>
     </item>
     
+    <item>
+      <title>My Second Post</title>
+      <link>/go-actions/posts/my-second-post/</link>
+      <pubDate>Mon, 09 Nov 2020 17:40:37 +0000</pubDate>
+      
+      <guid>/go-actions/posts/my-second-post/</guid>
+      <description>Hello again Gophercon!</description>
+    </item>
+    
   </channel>
 </rss>
